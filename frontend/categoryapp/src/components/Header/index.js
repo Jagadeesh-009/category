@@ -7,10 +7,6 @@ import './index.css';
 
 const Header = () => {
   const handleLogout = () => {
-    // Clear session data or authentication token here if applicable
-    // For example: localStorage.removeItem('authToken'); or sessionStorage.clear();
-
-    // Redirect user to login page after logout
     window.location.href = '/login';
   };
 
