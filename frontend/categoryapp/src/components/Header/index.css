@@ -1,0 +1,17 @@
+.name-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  /* padding:30px; */
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: rgb(145, 221, 196);
+}
+.fast-icon{
+    font-size: 30px;
+}
+
+.form-control{
+    background-color: rgb(80, 82, 82);
+}
