@@ -11,9 +11,9 @@
   
   .main-content {
     margin-left: 250px;
-    height: calc(96vh - 56px); 
+    height: calc(100vh - 56px); /* adjust for header if fixed */
     overflow-y: hidden;
-    background-color: #f8f9fa;
+    background-color: #f8f9fa; /* light background for contrast */
   }
   
   .category-heading {
